@@ -39,7 +39,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/abdirsakabdulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdirsakabdulla" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abdirsakabdulla" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - abdirsakabdulla" height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/abdirsak_abdulla?igsh=cGRxczFycHI0ZWZ2" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - abdirsak_abdulla" height="30" width="40" />
+</a>
+
+<a href="https://x.com/Geellecabdulla1?t=ABsduFvcQYlJqnhB9_JNJw&s=09" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter) - Geellecabdulla1" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

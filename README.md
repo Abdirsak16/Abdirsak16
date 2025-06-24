@@ -1,3 +1,8 @@
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Abdirsak Abdulla</h1>
 <h3 align="center">A passionate frontend developer from somalia</h3>
 
@@ -29,7 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdirsak16&show_icons=true&locale=en&layout=compact" alt="abdirsak16" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdirsak16&show_icons=true&locale=en" alt="abdirsak16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdirsak16&" alt="abdirsak16" /></p>
 
